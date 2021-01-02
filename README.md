@@ -11,7 +11,7 @@ Simple Selenium bot to continuously check PS5 stock on various websites.
 # Setup
 -------------------------------------------------------------------------
 - You will need to set up the path for **Chrome Driver** for selenium. 
-- The links used in the code includes my local store the links will beed to be updated according to the users location. 
+- The links used in the code includes my local store so they will need to be updated according to the users location. 
 - There is no other setup needed.
 - File named tpbb checks best buy and target together.
 
