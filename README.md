@@ -19,3 +19,6 @@ Simple Selenium bot to continuously check PS5 stock on various websites.
 -------------------------------------------------------------------------
 As long as selenuim is set up the code just needs to be complied, some websites have added bot checkers so this code may not work in the future.
 
+## Success
+--------------------------------------------------------------------------
+![alt text](https://github.com/siddhantmodi97/PS5_Stock_Checker/blob/main/WhatsApp%20Image%202021-01-04%20at%208.09.33%20PM.jpeg "It Helps!")
